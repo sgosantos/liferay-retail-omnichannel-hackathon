@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+	<!-- Change these values for your Liferay Portal installation -->
+
+	<string name="liferay_server">http://192.168.110.251:8080</string>
+	<integer name="liferay_company_id">20111</integer>
+	<integer name="liferay_group_id">20138</integer>
+	<integer name="liferay_portal_version">70</integer>
+
+</resources>
